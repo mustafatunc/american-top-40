@@ -11,7 +11,7 @@ to your YouTube API key to yours.
 
 <p align="center">
   <img src="https://github.com/mustafatunc/american-top-40/blob/master/screenshots/menu.png" width="250"/>
-  <img src="https://github.com/mustafatunc/american-top-40/blob/master/screenshots/years.png" width="250"/>
+  <img src="https://github.com/mustafatunc/american-top-40/blob/master/screenshots/yearslist.png" width="250"/>
   <img src="https://github.com/mustafatunc/american-top-40/blob/master/screenshots/songlist1.png" width="250"/>
   <img src="https://github.com/mustafatunc/american-top-40/blob/master/screenshots/songlist2.png" width="250"/>
 </p>
